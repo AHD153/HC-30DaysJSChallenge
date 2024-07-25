@@ -1,0 +1,17 @@
+{
+  "name": "parcel-example",
+  "version": "1.0.0",
+  "description": "",
+  "source":"index.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
